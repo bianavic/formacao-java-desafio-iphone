@@ -15,3 +15,12 @@ Com base no vídeo de lançamento do iPhone conforme link abaixo, elabore em uma
 
 ### Diagrama criado para o desafio
 ![Diagrama de Classe iPhone](./image/diagrama-iphone.png "Diagrama de classe para desafio iPhone")
+
+ferramenta para gerar UML: https://www.planttext.com/
+
+
+#### Resultado ao rodar a aplicação:
+![Imagem do console ao rodar a aplicação](./image/console.png "Imagem exibindo o console apos rodar a aplicação")
+
+
+
